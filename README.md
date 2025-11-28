@@ -61,4 +61,4 @@ Email: nevesmarcos42@gmail.com
 
 LinkedIn: https://www.linkedin.com/in/nevesmarcos/
 
-Obrigado por conferir este projeto! Se você achou interessante, deixe uma estrela no repositório e compartilhe com seus colegas. 🚀✨
+Obrigado por conferir este projeto! Se você achou interessante, deixe uma estrela no repositório e compartilhe com seus colegas. 
